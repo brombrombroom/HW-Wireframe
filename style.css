@@ -27,6 +27,7 @@ body {
     padding: 30px;
     color: #777;
     text-align: center;
+    clear: both;
   }
 
   .header {
